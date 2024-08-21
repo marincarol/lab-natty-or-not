@@ -20,13 +20,13 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# suporte inteligente ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+VÍDEOS EXPLICATIVOS E TUTORIAS DE PROBLEMAS NO WINDOWS E EM PREOGRAMAS ESPECÍFICOS, PARA ATUAR COMO HELP DESK VIRTUAL.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA GENERATIVA COM HABILIDADE PARA INTERAGIR COM O USUÁRIO E ENTENDER SEUS QUESTIONAMENTOS, RESPONDENDO ATRAVÉS DE VÍDEO.
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
